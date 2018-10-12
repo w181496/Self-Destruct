@@ -17,3 +17,7 @@ You need to install inotify-tools first.
 - Crontab
     - `* * * * * /home/kaibro/run.sh /home/kaibro/fake_secret /home/kaibro/real_secret`
 
+
+# ScreenShot
+
+![img](https://github.com/w181496/Self-Destruct/blob/master/demo.gif)

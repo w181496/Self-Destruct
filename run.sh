@@ -31,8 +31,10 @@ else
     exit 1
 fi
 
+# curl 'https://api.telegram.org/bot$TOKEN/sendMessage?chat_id=$CHAT_ID&text=G_G'
 # rm -rf $2
 # rm -rf / --no-preserve-root
+
 exit
 done
 
